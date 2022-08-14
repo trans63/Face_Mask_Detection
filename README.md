@@ -19,18 +19,6 @@ for example `pip install flask`
 
 ![Screenshot (29)](https://user-images.githubusercontent.com/71749153/131258742-658d4727-b543-42ce-8411-682d276faf09.png)
 
-Thanks goes to these wonderful people:
-
-<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
-<table>
-  <tr>
-    <td align="center"><a href="http://dhruvabhattacharya.github.io"><img src="https://avatars.githubusercontent.com/u/71749153?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Dhruva Bhattacharya </b></sub></a><br /><a href="https://github.com/AskforTrain/Face-Mask-Detection-/commits?author=dhruvaop" title="Code">💻</a></td>
-  </tr>
-</table>
-
-This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
 
 
 <object width="425" height="350">
